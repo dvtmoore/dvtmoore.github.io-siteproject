@@ -17,7 +17,7 @@ This material could also be difficult to create for instructors, and could limit
 ## Graphical analysis
 <img src="siteproject/static/imgs/linechart" alt="Linechart representing the response to the survey. "  width="500"/>
 <img src="siteproject/static/imgs/barchart.png" alt="Barchart representing response to the survey "  width="500"/>
-<img src="siteproject/static/imgs/distribution.png" alt="Graphed distribution of percentages of selctions "  width="500"/>
+<img src="./static/imgs/distribution.png" alt="Graphed distribution of percentages of selctions "  width="500"/>
 
 ## conclusion
 
