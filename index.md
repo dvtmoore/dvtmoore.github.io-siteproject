@@ -15,7 +15,7 @@ This could take away from the understanding of those who are unable to access or
 This material could also be difficult to create for instructors, and could limit engagement by decreasing attendance of in person class.
 
 ## Graphical analysis
-<img src="./static/imgs/linechart" alt="Linechart representing the response to the survey. "  width="500"/>
+<img src="./static/imgs/linechart.png" alt="Linechart representing the response to the survey. "  width="500"/>
 <img src="./static/imgs/barchart.png" alt="Barchart representing response to the survey "  width="500"/>
 <img src="./static/imgs/distribution.png" alt="Graphed distribution of percentages of selctions "  width="500"/>
 
